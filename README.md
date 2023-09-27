@@ -2,7 +2,9 @@
 
 
 Hi, I'm Nika 👨‍💻
+
 ## About Me  
+
 
 • 📖 I’m self learning developer focused on Front-End <br><br>
 • 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components,Tailwind.css, Bootstrap , Typescript, AWS  and  Next.js <br><br>
