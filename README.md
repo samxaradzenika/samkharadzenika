@@ -3,7 +3,7 @@
 
 Hi, I'm Nika 👨‍💻
 
-## About Me  
+## About Me 
 
 
 • 📖 I’m self learning developer focused on Front-End <br><br>
