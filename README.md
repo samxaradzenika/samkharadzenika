@@ -10,7 +10,7 @@ Hi, I'm Nika 👨‍💻
 • 👨‍💻 I’m experienced with Javascript, React, HTML&CSS, Styled-Components,Tailwind.css, Bootstrap , Typescript, AWS  and  Next.js <br><br>
 • 🏠 Based in Georgia, Rustavi <br><br>
 • 🎬 Planning to become React + Node.js fullstack <br><br>
-• 💬 I'm open for job opportunities aswell as project collabs <br><br>
+• 💬 I'm open for job opportunities as well as project collaborations <br><br>
 
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60" height="60">
  
