@@ -18,3 +18,4 @@ Hi, I'm Nika 👨‍💻
 - 🔗 <a href="https://linkedin.com/in/samkharadzenika/" target="_blank">LinkedIn</a> <br><br>
 
 # Success is not final, failure is not fatal: It is the courage to continue that counts.
+<a href="https://app.daily.dev/nikasamkharadze"><img src="https://api.daily.dev/devcards/v2/iJQ9nR7BRtaYtXDZyDOlz.png?r=2lv&type=default" width="356" alt="nika samkharadze's Dev Card"/></a>
