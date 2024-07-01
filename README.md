@@ -13,7 +13,7 @@ Hi, I'm Nika 👨‍💻
 
 # Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60" height="60">
  
-- 📧 nika.samkharadze087@law.tsu.edu.ge <br> <br>
+- 📧 samkharadzenika333@gmail.com <br> <br>
 - 🔗 <a href="https://linkedin.com/in/samkharadzenika/" target="_blank">LinkedIn</a> <br><br>
 
 # Success is not final, failure is not fatal: It is the courage to continue that counts.
